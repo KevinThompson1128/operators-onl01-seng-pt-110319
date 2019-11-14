@@ -6,8 +6,7 @@ end
   if speed < 40
     return true
 end
-  if speed == 40 && 60
-    return false
+else return false
 end
 end
  
