@@ -6,7 +6,7 @@ end
   if speed < 40
     return true
 end
-else speed == 40 && 60 
+if speed == 40 && 60 
   return false
 
 end
