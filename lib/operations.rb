@@ -15,7 +15,7 @@ end
 	  if speed > 60
     return true
 end
-  if speed < 40 ? true : false
+  speed < 40 ? true : false
 end
   if speed < 40
     return true
